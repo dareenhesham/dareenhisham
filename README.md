@@ -24,7 +24,7 @@
   Pandas, NumPy, Power BI
 
 - 🔌 **Hardware:**  
-  Raspberry Pi, Arduino, Sensors, Servo Motors
+  Raspberry Pi, Arduino, Sensors
 
 - 🧰 **Development Tools:**  
   Jupyter Notebook, Google Colab, Power BI
