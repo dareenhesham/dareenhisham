@@ -4,7 +4,6 @@
 💻 Passionate about AI, Machine Learning, Deep Learning, and Smart Systems.  
 ⚙️ I've worked on multiple projects combining **software** and **hardware** using Raspberry Pi and Arduino.  
 📊 Skilled in **Data Analysis** using Python and Power BI, with strong experience in cleaning, analyzing, and visualizing data. 
-
 🧠 Always learning new skills through courses and training programs. 
 
 ---
